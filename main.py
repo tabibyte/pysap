@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Terminal Audio Player - A musikcube/rmpc inspired audio player
-"""
-
 import os
 import sys
 import threading
