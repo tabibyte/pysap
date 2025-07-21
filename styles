@@ -1,0 +1,15 @@
+Screen {
+    layout: grid;
+    grid-size: 2;
+    grid-columns: 1fr 3fr 4fr;
+}
+
+.box {
+    height: 100%;
+    border: solid green;
+}
+
+#player_bar {
+    dock: bottom;
+    border: solid green;
+}
